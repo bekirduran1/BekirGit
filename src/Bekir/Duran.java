@@ -2,6 +2,9 @@ package Bekir;
 
 public class Duran {
     public static void main(String[] args) {
-        System.out.println("Karalar");
+        
+int K=10;
+        String L="20"; 
+
     }
 }
